@@ -1,2 +1,2 @@
 # ML
-Machine Learning Tasks ( Linear Algebra)
+Machine Learning Tasks
